@@ -1,14 +1,22 @@
 body {
-  padding-top: 40px;
+  padding: 40px 0;
   font-family: 'Courier New', monospace;
   text-align: center;
+  border: groove 20px #ff7f50;
+  margin: 0;
+  background-image: url(../img/river.jpeg);
 }
 
 #target {
-  font-size: 48px;
+  font-size: 70px;
   letter-spacing: 3px;
+  font-weight: 900;
+  color: white;
+  margin-bottom: 50px;
 }
 
 .info {
-  color: #ccc;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
 }

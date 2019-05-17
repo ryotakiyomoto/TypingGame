@@ -16,7 +16,7 @@
    let score;
    let miss;
    // javaScriptでは、時間はミリ秒で扱うため、
-   const timeLimit = 3 * 1000;
+   const timeLimit = 5 * 1000;
    let startTime;
    let isPlaying = false;
 
